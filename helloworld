@@ -1,2 +1,6 @@
 helloworld!
+<<<<<<< HEAD
 delete new line
+=======
+delete a line
+>>>>>>> origin/master
