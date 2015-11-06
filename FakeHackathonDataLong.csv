@@ -1,0 +1,329 @@
+Full name,,Birth date,Place of birth,Death date,Place of death,Nationality,Title,Creation date,Medium description,Dimensions (HxWxD in inches),Acquisition date,ID number,Department
+Sam Kharkiv,,9-Sep-40,Kiev,13-Jan-06,Chicago,Ukrainian,The Ball,25-Sep-90,Copper,5x6x6,13-Jan-08,TX123,Sculpture
+Nina Bell,,1/1/2000,Pittsburh,NA,NA,American,Jumping Rope,10/1/2015,Crayon,8x10x0.5,11/11/2015,GG802,Painting
+Sam Kharkiv,,9-Sep-40,Kiev,13-Jan-06,Chicago,Ukrainian,The String,16-Jun-60,Copper,5x1x10,13-Jan-09,TX3224,Sculpture
+Sam Kharkiv,,9-Sep-40,"Kiev, Ukraine",13-Jan-06,Chicago,Ukrainian,Super,1-Jan-80,Copper,50x50x3,13-Nov-09,LN8902,Architecture
+Nina Bell,,1/1/2000,"Pittsburgh, PA, US",NA,NA,American,Funny,10/11/2015,Oil,8x10x0.5,11/11/2015,GG804,Painting
+Hong Wu,,11/12/1977,Singapore,NA,NA,Singaporean,Tall,7/7/1988,Oil,Height 20 Width 20,11/11/2005,XV324,Painting
+Hong Wu,,11/12/1977,Singapore,NA,NA,Singaporean,Tall Big,8/7/2000,Oil,20x200x3,10-Nov,XV325,Painting
+Hong Wu,,11/12/1977,Singapore,NA,NA,Singaporean,Tall Small,1998,Plastic,15x15x15,12/11/2006,XV326,Sculpture
+Ladybug,,1960,"Monterey, CA, United States",1993,Switzerland,United States,My Big Red Heart,1993,Rubber,"Height 200, Width 10",2015,NA,Architecture
+Ladybug,,1960,"Monterey, CA, United States",1993,Switzerland,United States,My Big Red Car,1992,Rubber,"Height 60, Width 60, Depth 10",2014,NA,Architecture
+Sandra B,,5/20/1905,India,1985,"Mumbai, India",Indian,no 1,1935,Cement,80x90x10,2000,N199,Sculpture
+Sandra B,,5/20/1905,India,Jan-85,"Mumbai, India",Indian,no 2,Jul-36,Cement,80x90x10,2000,N299,Sculpture
+Sandra B,,5/20/1905,India,Jan-85,"Mumbai, India",Indian,no 3,Jul-36,Cement,80x90x10,2001,N309,Sculpture
+Rita,,6/10/1915,India,Jan-75,"Mumbai, India",Indian,no 4,4/28/1955,Cement,90x10x10,2001,N419,Sculpture
+Rita,,6/10/1915,India,Jan-75,"Mumbai, India",Indian,no 5,4/28/1975,Cement,10x10x10,2000,N569,Sculpture
+Rita,,6/10/1915,India,Jan-75,"Mumbai, India",Indian,no 6,6/28/1956,Oil,10x10x10,2000,N199,Painting
+Rita,,6/10/1915,India,Jan-75,"Mumbai, India",Indian,no 7,6/1/1957,Oil,5x5x5,2000,N199,Painting
+Sumi T,,1700,Kiev,,,,,,Copper,,,,Sculpture
+A,,1701,Pittsburh,,,,,,Crayon,,,,Painting
+B,,1702,Kiev,,,,,,Copper,,,,Sculpture
+C,,1703,"Kiev, Ukraine",,,,,,Copper,,,,Architecture
+A,,1704,"Pittsburgh, PA, US",,,,,,Oil,,,,Painting
+B,,1705,Singapore,,,,,,Oil,,,,Painting
+C,,1706,Singapore,,,,,,Oil,,,,Painting
+A,,1707,Singapore,,,,,,Plastic,,,,Sculpture
+B,,1708,"Monterey, CA, United States",,,,,,Rubber,,,,Architecture
+C,,1709,"Monterey, CA, United States",,,,,,Rubber,,,,Architecture
+A,,1710,India,,,,,,Cement,,,,Sculpture
+B,,1711,India,,,,,,Cement,,,,Sculpture
+C,,1712,India,,,,,,Cement,,,,Sculpture
+A,,1713,Kiev,,,,,,Cement,,,,Sculpture
+B,,1714,Pittsburh,,,,,,Cement,,,,Sculpture
+C,,1715,Kiev,,,,,,Oil,,,,Painting
+A,,1716,"Kiev, Ukraine",,,,,,Oil,,,,Sculpture
+B,,1717,"Pittsburgh, PA, US",,,,,,,,,,Painting
+C,,1718,Singapore,,,,,,,,,,Sculpture
+A,,1719,Singapore,,,,,,,,,,Architecture
+B,,1720,Singapore,,,,,,,,,,Painting
+C,,1721,"Monterey, CA, United States",,,,,,,,,,Painting
+A,,1722,"Monterey, CA, United States",,,,,,,,,,Painting
+B,,1723,India,,,,,,,,,,Sculpture
+C,,1724,India,,,,,,,,,,Architecture
+A,,1725,India,,,,,,,,,,Architecture
+B,,1726,Kiev,,,,,,,,,,Painting
+C,,1727,Pittsburh,,,,,,,,,,Painting
+A,,1728,Kiev,,,,,,,,,,Painting
+B,,1729,"Kiev, Ukraine",,,,,,,,,,Painting
+C,,1730,"Pittsburgh, PA, US",,,,,,,,,,Painting
+A,,1731,Singapore,,,,,,,,,,Painting
+B,,1732,Singapore,,,,,,,,,,Painting
+C,,1733,Singapore,,,,,,,,,,Painting
+A,,1734,"Monterey, CA, United States",,,,,,,,,,Painting
+B,,1735,"Monterey, CA, United States",,,,,,,,,,Painting
+C,,1736,India,,,,,,,,,,Sculpture
+A,,1737,India,,,,,,,,,,Painting
+B,,1738,India,,,,,,,,,,Sculpture
+C,,1739,Kiev,,,,,,,,,,Architecture
+A,,1740,Pittsburh,,,,,,,,,,Painting
+B,,1741,Kiev,,,,,,,,,,Painting
+C,,1742,"Kiev, Ukraine",,,,,,,,,,Painting
+A,,1743,"Pittsburgh, PA, US",,,,,,,,,,Sculpture
+B,,1744,Singapore,,,,,,,,,,Architecture
+C,,1745,Singapore,,,,,,,,,,Architecture
+A,,1746,Singapore,,,,,,,,,,Painting
+B,,1747,"Monterey, CA, United States",,,,,,,,,,Painting
+C,,1748,"Monterey, CA, United States",,,,,,,,,,Painting
+A,,1749,India,,,,,,,,,,Painting
+B,,1750,India,,,,,,,,,,Painting
+C,,1751,India,,,,,,,,,,Sculpture
+A,,1752,India,,,,,,,,,,Painting
+B,,1753,India,,,,,,,,,,Sculpture
+C,,1754,India,,,,,,,,,,Architecture
+A,,1755,India,,,,,,,,,,Painting
+B,,1756,India,,,,,,,,,,Painting
+C,,1757,India,,,,,,,,,,Painting
+A,,1758,India,,,,,,,,,,Sculpture
+B,,1759,India,,,,,,,,,,Architecture
+C,,1760,China,,,,,,,,,,Architecture
+A,,1761,China,,,,,,,,,,Painting
+B,,1762,China,,,,,,,,,,Painting
+C,,1763,China,,,,,,,,,,Painting
+A,,1764,China,,,,,,,,,,Painting
+B,,1765,China,,,,,,,,,,Painting
+C,,1766,China,,,,,,,,,,Painting
+A,,1767,China,,,,,,,,,,Painting
+B,,1768,China,,,,,,,,,,Painting
+C,,1769,China,,,,,,,,,,Painting
+A,,1770,China,,,,,,,,,,Painting
+B,,1771,China,,,,,,,,,,Painting
+C,,1772,China,,,,,,,,,,Painting
+A,,1773,China,,,,,,,,,,Painting
+B,,1774,China,,,,,,,,,,Painting
+C,,1775,China,,,,,,,,,,Painting
+A,,1776,China,,,,,,,,,,Painting
+B,,1777,China,,,,,,,,,,Painting
+C,,1778,China,,,,,,,,,,Painting
+A,,1779,China,,,,,,,,,,Painting
+B,,1780,China,,,,,,,,,,Sculpture
+C,,1781,China,,,,,,,,,,Painting
+A,,1782,China,,,,,,,,,,Sculpture
+B,,1783,China,,,,,,,,,,Architecture
+C,,1784,China,,,,,,,,,,Painting
+A,,1785,China,,,,,,,,,,Painting
+B,,1786,China,,,,,,,,,,Painting
+C,,1787,China,,,,,,,,,,Sculpture
+A,,1788,China,,,,,,,,,,Architecture
+B,,1789,China,,,,,,,,,,Architecture
+C,,1790,China,,,,,,,,,,Painting
+A,,1791,China,,,,,,,,,,Painting
+B,,1792,China,,,,,,,,,,Painting
+C,,1793,China,,,,,,,,,,Painting
+A,,1794,China,,,,,,,,,,Painting
+B,,1795,China,,,,,,,,,,Painting
+C,,1796,China,,,,,,,,,,Sculpture
+A,,1797,China,,,,,,,,,,Painting
+B,,1798,China,,,,,,,,,,Sculpture
+C,,1799,United States,,,,,,,,,,Architecture
+A,,1800,United States,,,,,,,,,,Painting
+B,,1801,United States,,,,,,,,,,Painting
+C,,1802,United States,,,,,,,,,,Painting
+A,,1803,United States,,,,,,,,,,Sculpture
+B,,1804,United States,,,,,,,,,,Architecture
+C,,1805,United States,,,,,,,,,,Architecture
+A,,1806,United States,,,,,,,,,,Painting
+B,,1807,United States,,,,,,,,,,Painting
+C,,1808,United States,,,,,,,,,,Painting
+A,,1809,United States,,,,,,,,,,Painting
+B,,1810,United States,,,,,,,,,,Painting
+C,,1811,United States,,,,,,,,,,Painting
+A,,1812,United States,,,,,,,,,,Painting
+B,,1813,United States,,,,,,,,,,Painting
+C,,1814,United States,,,,,,,,,,Painting
+A,,1815,United States,,,,,,,,,,Painting
+B,,1816,United States,,,,,,,,,,Painting
+C,,1817,United States,,,,,,,,,,Painting
+A,,1818,United States,,,,,,,,,,Painting
+B,,1819,United States,,,,,,,,,,Painting
+C,,1820,United States,,,,,,,,,,Painting
+A,,1821,United States,,,,,,,,,,Painting
+B,,1822,United States,,,,,,,,,,Sculpture
+C,,1823,United States,,,,,,,,,,Painting
+A,,1824,United States,,,,,,,,,,Sculpture
+B,,1825,United States,,,,,,,,,,Architecture
+C,,1826,United States,,,,,,,,,,Painting
+A,,1827,United States,,,,,,,,,,Painting
+B,,1828,United States,,,,,,,,,,Painting
+C,,1829,United States,,,,,,,,,,Sculpture
+A,,1830,United States,,,,,,,,,,Architecture
+B,,1831,United States,,,,,,,,,,Architecture
+C,,1832,United States,,,,,,,,,,Painting
+A,,1833,United States,,,,,,,,,,Painting
+B,,1834,United States,,,,,,,,,,Painting
+C,,1835,United States,,,,,,,,,,Painting
+A,,1836,United States,,,,,,,,,,Painting
+B,,1837,United States,,,,,,,,,,Painting
+C,,1838,United States,,,,,,,,,,Painting
+A,,1839,United States,,,,,,,,,,Painting
+B,,1840,United States,,,,,,,,,,Sculpture
+C,,1841,United States,,,,,,,,,,Painting
+A,,1842,United States,,,,,,,,,,Sculpture
+B,,1843,United States,,,,,,,,,,Architecture
+C,,1844,United States,,,,,,,,,,Painting
+A,,1845,United States,,,,,,,,,,Painting
+B,,1846,United States,,,,,,,,,,Painting
+C,,1847,United States,,,,,,,,,,Sculpture
+A,,1848,United States,,,,,,,,,,Architecture
+B,,1849,United States,,,,,,,,,,Architecture
+C,,1850,United States,,,,,,,,,,Painting
+A,,1851,United States,,,,,,,,,,Painting
+B,,1852,United States,,,,,,,,,,Painting
+C,,1853,United States,,,,,,,,,,Painting
+A,,1854,United States,,,,,,,,,,Painting
+B,,1855,United States,,,,,,,,,,Painting
+C,,1856,United States,,,,,,,,,,Painting
+A,,1857,United States,,,,,,,,,,Painting
+B,,1858,United States,,,,,,,,,,Painting
+C,,1859,United States,,,,,,,,,,Painting
+A,,1860,United States,,,,,,,,,,Painting
+B,,1861,United States,,,,,,,,,,Painting
+C,,1862,United States,,,,,,,,,,Painting
+A,,1863,United States,,,,,,,,,,Painting
+B,,1864,United States,,,,,,,,,,Painting
+C,,1865,United States,,,,,,,,,,Painting
+A,,1866,United States,,,,,,,,,,Painting
+B,,1867,United States,,,,,,,,,,Sculpture
+C,,1868,United States,,,,,,,,,,Painting
+A,,1869,United States,,,,,,,,,,Sculpture
+B,,1870,United States,,,,,,,,,,Architecture
+C,,1871,United States,,,,,,,,,,Painting
+A,,1872,United States,,,,,,,,,,Painting
+B,,1873,United States,,,,,,,,,,Painting
+C,,1874,United States,,,,,,,,,,Sculpture
+A,,1875,United States,,,,,,,,,,Architecture
+B,,1876,United States,,,,,,,,,,Architecture
+C,,1877,United States,,,,,,,,,,Painting
+A,,1878,United States,,,,,,,,,,Painting
+B,,1879,United States,,,,,,,,,,Painting
+C,,1880,United States,,,,,,,,,,Painting
+A,,1881,United States,,,,,,,,,,Painting
+B,,1882,United States,,,,,,,,,,Sculpture
+C,,1883,United States,,,,,,,,,,Painting
+A,,1884,United States,,,,,,,,,,Sculpture
+B,,1885,United States,,,,,,,,,,Architecture
+C,,1886,United States,,,,,,,,,,Painting
+A,,1887,United States,,,,,,,,,,Painting
+B,,1888,United States,,,,,,,,,,Painting
+C,,1889,United States,,,,,,,,,,Sculpture
+A,,1890,United States,,,,,,,,,,Architecture
+B,,1891,United States,,,,,,,,,,Architecture
+C,,1892,United States,,,,,,,,,,Painting
+A,,1893,United States,,,,,,,,,,Painting
+B,,1894,United States,,,,,,,,,,Painting
+C,,1895,United States,,,,,,,,,,Painting
+A,,1896,United States,,,,,,,,,,Painting
+B,,1897,United States,,,,,,,,,,Painting
+C,,1898,United States,,,,,,,,,,Painting
+A,,1899,United States,,,,,,,,,,Painting
+B,,1900,United States,,,,,,,,,,Painting
+C,,1901,United States,,,,,,,,,,Painting
+A,,1902,United States,,,,,,,,,,Painting
+B,,1903,United States,,,,,,,,,,Painting
+C,,1904,United States,,,,,,,,,,Painting
+A,,1905,United States,,,,,,,,,,Painting
+B,,1906,United States,,,,,,,,,,Painting
+C,,1907,United States,,,,,,,,,,Painting
+A,,1908,United States,,,,,,,,,,Painting
+B,,1909,United States,,,,,,,,,,Sculpture
+C,,1910,United States,,,,,,,,,,Painting
+A,,1911,United States,,,,,,,,,,Sculpture
+B,,1912,United States,,,,,,,,,,Architecture
+C,,1913,United States,,,,,,,,,,Painting
+A,,1914,United States,,,,,,,,,,Painting
+B,,1915,United States,,,,,,,,,,Painting
+C,,1916,United States,,,,,,,,,,Sculpture
+A,,1917,United States,,,,,,,,,,Architecture
+B,,1918,United States,,,,,,,,,,Architecture
+C,,1919,United States,,,,,,,,,,Painting
+A,,1920,United States,,,,,,,,,,Painting
+B,,1921,United States,,,,,,,,,,Painting
+C,,1922,United States,,,,,,,,,,Painting
+A,,1923,United States,,,,,,,,,,Painting
+B,,1924,United States,,,,,,,,,,Painting
+C,,1925,United States,,,,,,,,,,Painting
+A,,1926,United States,,,,,,,,,,Painting
+B,,1927,United States,,,,,,,,,,Painting
+C,,1928,United States,,,,,,,,,,Sculpture
+A,,1929,United States,,,,,,,,,,Painting
+B,,1930,United States,,,,,,,,,,Sculpture
+C,,1931,United States,,,,,,,,,,Architecture
+A,,1932,United States,,,,,,,,,,Painting
+B,,1933,United States,,,,,,,,,,Painting
+C,,1934,United States,,,,,,,,,,Painting
+A,,1935,United States,,,,,,,,,,Sculpture
+B,,1936,United States,,,,,,,,,,Architecture
+C,,1937,United States,,,,,,,,,,Architecture
+A,,1938,United States,,,,,,,,,,Painting
+B,,1939,United States,,,,,,,,,,Painting
+C,,1940,United States,,,,,,,,,,Painting
+A,,1941,United States,,,,,,,,,,Painting
+B,,1942,United States,,,,,,,,,,Painting
+C,,1943,United States,,,,,,,,,,Painting
+A,,1944,United States,,,,,,,,,,Painting
+B,,1945,United States,,,,,,,,,,Painting
+C,,1946,United States,,,,,,,,,,Sculpture
+A,,1947,United States,,,,,,,,,,Painting
+B,,1948,United States,,,,,,,,,,Sculpture
+C,,1949,United States,,,,,,,,,,Architecture
+A,,1950,United States,,,,,,,,,,Painting
+B,,1951,United States,,,,,,,,,,Painting
+C,,1952,United States,,,,,,,,,,Painting
+A,,1953,United States,,,,,,,,,,Sculpture
+B,,1954,United States,,,,,,,,,,Architecture
+C,,1955,United States,,,,,,,,,,Architecture
+A,,1956,United States,,,,,,,,,,Painting
+B,,1957,United States,,,,,,,,,,Painting
+C,,1958,United States,,,,,,,,,,Painting
+A,,1959,United States,,,,,,,,,,Painting
+B,,1960,United States,,,,,,,,,,Painting
+C,,1961,United States,,,,,,,,,,Sculpture
+A,,1962,United States,,,,,,,,,,Painting
+B,,1963,United States,,,,,,,,,,Sculpture
+C,,1964,United States,,,,,,,,,,Architecture
+A,,1965,United States,,,,,,,,,,Painting
+B,,1966,United States,,,,,,,,,,Painting
+C,,1967,United States,,,,,,,,,,Painting
+A,,1968,United States,,,,,,,,,,Sculpture
+B,,1969,United States,,,,,,,,,,Architecture
+C,,1970,United States,,,,,,,,,,Architecture
+A,,1971,United States,,,,,,,,,,Painting
+B,,1972,United States,,,,,,,,,,Painting
+C,,1973,United States,,,,,,,,,,Painting
+A,,1974,United States,,,,,,,,,,Painting
+B,,1975,United States,,,,,,,,,,Painting
+C,,1976,United States,,,,,,,,,,Painting
+A,,1977,UK,,,,,,,,,,Painting
+B,,1978,UK,,,,,,,,,,Painting
+C,,1979,UK,,,,,,,,,,Painting
+A,,1980,UK,,,,,,,,,,Painting
+B,,1981,UK,,,,,,,,,,Painting
+C,,1982,UK,,,,,,,,,,Painting
+A,,1983,UK,,,,,,,,,,Painting
+B,,1984,UK,,,,,,,,,,Painting
+C,,1985,UK,,,,,,,,,,Painting
+A,,1986,UK,,,,,,,,,,Painting
+B,,1987,UK,,,,,,,,,,Painting
+C,,1988,UK,,,,,,,,,,Painting
+A,,1989,UK,,,,,,,,,,Painting
+B,,1990,UK,,,,,,,,,,Sculpture
+C,,1991,UK,,,,,,,,,,Painting
+A,,1992,UK,,,,,,,,,,Sculpture
+B,,1993,UK,,,,,,,,,,Architecture
+C,,1994,UK,,,,,,,,,,Painting
+A,,1995,UK,,,,,,,,,,Painting
+B,,1996,UK,,,,,,,,,,Painting
+C,,1997,UK,,,,,,,,,,Sculpture
+A,,1998,UK,,,,,,,,,,Architecture
+B,,1999,UK,,,,,,,,,,Architecture
+C,,2000,UK,,,,,,,,,,Painting
+A,,2001,UK,,,,,,,,,,Painting
+B,,2002,UK,,,,,,,,,,Painting
+C,,2003,UK,,,,,,,,,,Painting
+A,,2004,UK,,,,,,,,,,Sculpture
+B,,2005,UK,,,,,,,,,,Painting
+C,,2006,UK,,,,,,,,,,Sculpture
+A,,2007,UK,,,,,,,,,,Architecture
+B,,2008,UK,,,,,,,,,,Painting
+C,,2009,UK,,,,,,,,,,Painting
+A,,2010,UK,,,,,,,,,,Painting
