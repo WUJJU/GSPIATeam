@@ -10,7 +10,7 @@ import java.util.Set;
     public class DoublePQ {
         private DoubleCar [] pq;                    // store items at indices 1 to N
 
-        private int N;                       // number of items on priority queue
+        private String N;                       // number of items on priority queue
 
 
         private String S11111;
