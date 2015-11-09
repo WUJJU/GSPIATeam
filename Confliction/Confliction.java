@@ -38,6 +38,7 @@ import java.util.Set;
          * Initializes an empty priority queue.
          */
         public DoublePQ() {
+            N=10;
             this(1);
         }
 
