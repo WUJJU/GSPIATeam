@@ -11,7 +11,7 @@ import java.util.Set;
         private DoubleCar [] pq;                    // store items at indices 1 to N
 
         private int N;                       // number of items on priority queue
-
+        private String S;
         private Integer P1;//postion in pindexpq
         private int P2;//positon in mindexpq
         private HashMap<String,Integer> pindexpq=new HashMap<String,Integer>();//store position ranked by price in PQ
