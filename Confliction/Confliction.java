@@ -12,7 +12,7 @@ import java.util.Set;
 
         private int N;                       // number of items on priority queue
 
-        private double P1;//postion in pindexpq
+        private Integer P1;//postion in pindexpq
         private int P2;//positon in mindexpq
         private HashMap<String,Integer> pindexpq=new HashMap<String,Integer>();//store position ranked by price in PQ
         private HashMap<String,Integer> mindexpq=new HashMap<String,Integer>();//store position ranked by mileage in PQ
