@@ -14,7 +14,7 @@ import java.util.Set;
 
         private String S;
         private String P1;//postion in pindexpq
-
+        private String P3;
         private int P2;//positon in mindexpq
         private HashMap<String,Integer> pindexpq=new HashMap<String,Integer>();//store position ranked by price in PQ
         private HashMap<String,Integer> mindexpq=new HashMap<String,Integer>();//store position ranked by mileage in PQ
