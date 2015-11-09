@@ -12,7 +12,9 @@ import java.util.Set;
 
         private int N;                       // number of items on priority queue
 
+
         private String S11111;
+
         private String P1;//postion in pindexpq
         private String P3;
         private int P2;//positon in mindexpq
