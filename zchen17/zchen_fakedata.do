@@ -1,4 +1,3 @@
-replace birthdate = "9/9/1940" in 1
 generate countryofbirth = "NA"
 replace countryofbirth = "US" if strpos(placeofbirth, "United States")
 replace countryofbirth = "SP" if strpos(placeofbirth, "Singapore")
