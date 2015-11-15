@@ -1,0 +1,24 @@
+clear 
+set more off
+import delimited "/Users/beruf/Downloads/cmoa_horoscope.csv", encoding(ISO-8859-1)
+gen creationyear = year(date(creation_date_earliest, "MDY"))
+gen yearacquired=year(date(date_acquired, "MDY"))
+gen ageatcreation = creationyear - birth_year
+gen missingageatcreation=!ageatcreation
+gen yeartoacq = yearacquired - creationyear
+
+
+reg yeartoacq ageatcreation if horoscopeid==9
+gen makesnosense = ageatcreation<0 | ageatcreation >110
+
+tab missingageatcreation makesnosense
+
+gen monkey = horoscopeid==9
+gen rooster = horoscopeid ==10
+
+encode departmen, generate(dep_code)
+encode nationality, generate(nat_code)
+
+reg yeartoacq yearacquired monkey rooster
+
+reg yeartoacq yearacquired monkey rooster i.dep_code i.nat_code
